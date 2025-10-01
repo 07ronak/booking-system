@@ -221,6 +221,7 @@ All pages adapt seamlessly to different screen sizes using Tailwind CSS responsi
 - Add a status filter for bookings (Pending/Completed/Cancelled)
 - Add search and sort options in driver and booking tables
 - Auto-refresh booking and driver lists for real-time updates (Fetching the latest data from the backend API every few seconds)
+- Enhance the UI focusing on user experience and visual aesthetics, using Lucide icons for a cleaner look (UI and design haven’t been a priority yet, can be improved).
 
 ## License
 
