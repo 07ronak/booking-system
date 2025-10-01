@@ -214,6 +214,14 @@ The application is fully responsive with:
 
 All pages adapt seamlessly to different screen sizes using Tailwind CSS responsive utilities.
 
+## Future Enhancements
+
+- Only show available drivers in booking form
+- Predefined pickup/drop locations (Jaipur and nearby area)
+- Add a status filter for bookings (Pending/Completed/Cancelled)
+- Add search and sort options in driver and booking tables
+- Auto-refresh booking and driver lists for real-time updates (Fetching the latest data from the backend API every few seconds)
+
 ## License
 
 Ronak Hingonia
